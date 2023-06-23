@@ -1,0 +1,33 @@
+.title {
+    position: relative;
+    perspective: 400px;
+    padding-left: 17px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 52px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 0px; 
+    border: 60px solid #0D0D0D;
+    border-bottom: none
+  }
+
+  .container {
+    background-color: #0D0D0D;
+    min-height: min-content;
+    max-height: 93.2vh;
+  } 
+
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
+
+.card {
+  width: 40%;
+  height: 100%;
+ 
+}

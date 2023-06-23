@@ -1,0 +1,18 @@
+
+  .title {
+    position: relative;
+    perspective: 400px;
+    padding-left: 17px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 52px;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 0px; 
+    border: 600px solid #0D0D0D;
+    border-bottom: none
+  }
+
+  .MuiCardContent-root {
+    margin-top: 10px;
+  }

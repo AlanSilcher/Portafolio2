@@ -1,0 +1,19 @@
+ .title {
+    position: relative;
+    perspective: 400px;
+    padding-left: 17px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 52px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 0px; 
+    border: 60px solid #0D0D0D;
+    border-bottom: none
+  }
+
+  .text {
+    text-align: left;
+    font-size: 19px;
+    color: #fff;
+  }
